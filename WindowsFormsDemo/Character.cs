@@ -8,6 +8,8 @@ namespace WindowsFormsDemo
 {
     class Character
     {
+        // 尝试使用 properties
+        // 参考SC_model，里面有serialize序列化
         private string name;
         private int age;
         private int  gender;
